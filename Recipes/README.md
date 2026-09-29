@@ -4,7 +4,7 @@ A responsive recipe website built as part of [The Odin Project](https://www.theo
 
 ##  Description
 
-This is my very first complete web development project. The goal was to build a multi-page recipe website from scratch to practice the foundations of web development. It started as a pure HTML project and was later revisited to incorporate modern CSS techniques, including Flexbox and interactive hover states.
+This is my first complete web development project. The goal was to build a multi-page recipe website from scratch to practice the foundations of web development. It started as a pure HTML project and was later revisited to incorporate modern CSS techniques, including Flexbox and interactive hover states.
 
 You can view the live project here: https://maria-papadopoulou.github.io/Recipes/
 
