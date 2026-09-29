@@ -20,9 +20,9 @@ You can view the live project here:
   * ## Screenshots
   * <img width="1907" height="562" alt="εικόνα" src="https://github.com/user-attachments/assets/e9c1e8f6-320d-4082-8fa3-b7676b27a906" />
 
-  <img width="1896" height="521" alt="εικόνα" src="https://github.com/user-attachments/assets/919b8f42-5a9b-4042-b76f-06db2daa9cb1" />
+  * <img width="1896" height="521" alt="εικόνα" src="https://github.com/user-attachments/assets/919b8f42-5a9b-4042-b76f-06db2daa9cb1" />
 
-  <img width="1896" height="924" alt="εικόνα" src="https://github.com/user-attachments/assets/c0480f39-de7b-4fcd-9ad2-6e5e616f8e2c" />
+  * <img width="1896" height="924" alt="εικόνα" src="https://github.com/user-attachments/assets/c0480f39-de7b-4fcd-9ad2-6e5e616f8e2c" />
 
 
 
