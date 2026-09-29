@@ -6,7 +6,6 @@ A responsive landing page built from scratch as part of [The Odin Project](https
 
 This project focuses on translating a design mockup into a fully functional webpage. The primary goal was to master CSS Flexbox for element positioning and build a clean, modern layout featuring a header, a hero section, information cards, a testimonial quote, and a call-to-action banner.
 
-You can view the live project here:
 
 ## Skills & Technologies Used
 
